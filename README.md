@@ -9,4 +9,4 @@
 
 # 项目演示
 
-![Image text](https://github.com/didiaoyuwo/web_auto/raw/master/demo.gif)
+![Image text](https://github.com/didiaoyuwo/Project-gif/blob/master/web_auto/demo.gif?raw=true)
